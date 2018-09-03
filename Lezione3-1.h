@@ -19,7 +19,5 @@ int lezione31() {
     }
 
     printf("\n\nLa somma e': %d", somma);
-    system("PAUSE >nul");
-
     return 0;
 }

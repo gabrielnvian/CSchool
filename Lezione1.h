@@ -10,6 +10,5 @@ int lezione1() {
     scanf("%d", &y);
     z = x + y;
     printf("X Y e Z sono %d, %d e %d\n\n", x, y, z);
-    system("PAUSE");
     return 0;
 }

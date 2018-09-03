@@ -18,7 +18,5 @@ int lezione32() {
     for (i = 0; i < n + 1; i++) {
         printf("%d\n", arr[i]);
     }
-
-    system("PAUSE >nul");
     return 0;
 }

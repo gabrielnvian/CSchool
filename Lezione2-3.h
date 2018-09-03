@@ -19,6 +19,5 @@ int lezione23() {
     }
 
     printf("Il numero piu' grande e' %d", max);
-    system("PAUSE >nul");
     return 0;
 }

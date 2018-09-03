@@ -11,5 +11,7 @@
 int main() {
     //to test a file edit the following line with the required function name
     lezione1();
+
+    system("PAUSE");
     return 0;
 }

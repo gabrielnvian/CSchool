@@ -11,7 +11,5 @@ int lezione22() {
     for (int i = 0; i < n; i++) {
         printf("ciao\n");
     }
-
-    system("PAUSE >nul");
     return 0;
 }

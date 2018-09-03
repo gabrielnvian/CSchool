@@ -19,7 +19,5 @@ int lezione21() {
     } else {
         printf("\n\n%d e' maggiore di %d\n\n", b, a);
     }
-
-    system("PAUSE >nul");
     return 0;
 }
